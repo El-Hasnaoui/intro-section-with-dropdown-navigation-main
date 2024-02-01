@@ -79,7 +79,7 @@ p{
     width: 22%;
 }
 footer{
-    margin-top: 150px;
+    margin-top: 50px;
 }
 @media (max-width: 1400px) {
     .row{
@@ -202,5 +202,8 @@ footer{
     }
     #lmore{
         margin-bottom: 50px;
+    }
+    footer{
+        margin-top: 150px;
     }
 }
